@@ -1,0 +1,15 @@
+C:\Users\Fatura\source\repos\AdoptAPet\bin\Debug\net6.0\AdoptAPet.exe
+C:\Users\Fatura\source\repos\AdoptAPet\bin\Debug\net6.0\AdoptAPet.deps.json
+C:\Users\Fatura\source\repos\AdoptAPet\bin\Debug\net6.0\AdoptAPet.runtimeconfig.json
+C:\Users\Fatura\source\repos\AdoptAPet\bin\Debug\net6.0\AdoptAPet.dll
+C:\Users\Fatura\source\repos\AdoptAPet\bin\Debug\net6.0\AdoptAPet.pdb
+C:\Users\Fatura\source\repos\AdoptAPet\obj\Debug\net6.0\AdoptAPet.csproj.AssemblyReference.cache
+C:\Users\Fatura\source\repos\AdoptAPet\obj\Debug\net6.0\AdoptAPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatura\source\repos\AdoptAPet\obj\Debug\net6.0\AdoptAPet.AssemblyInfoInputs.cache
+C:\Users\Fatura\source\repos\AdoptAPet\obj\Debug\net6.0\AdoptAPet.AssemblyInfo.cs
+C:\Users\Fatura\source\repos\AdoptAPet\obj\Debug\net6.0\AdoptAPet.csproj.CoreCompileInputs.cache
+C:\Users\Fatura\source\repos\AdoptAPet\obj\Debug\net6.0\AdoptAPet.dll
+C:\Users\Fatura\source\repos\AdoptAPet\obj\Debug\net6.0\refint\AdoptAPet.dll
+C:\Users\Fatura\source\repos\AdoptAPet\obj\Debug\net6.0\AdoptAPet.pdb
+C:\Users\Fatura\source\repos\AdoptAPet\obj\Debug\net6.0\AdoptAPet.genruntimeconfig.cache
+C:\Users\Fatura\source\repos\AdoptAPet\obj\Debug\net6.0\ref\AdoptAPet.dll
